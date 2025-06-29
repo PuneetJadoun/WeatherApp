@@ -40,5 +40,5 @@ weather-app, html, css, javascript, api, fetch, beginner-project, practice-proje
 
 ## 🙌 Acknowledgements
 
-Weather data provided by **[Your API name, e.g., OpenWeatherMap](https://openweathermap.org/)**.  
+Weather data provided by - OpenWeatherMap.
 This project is built for educational purposes only.
