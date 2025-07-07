@@ -19,7 +19,7 @@ A simple weather app built using **HTML**, **CSS**, and **JavaScript**, designed
 - HTML
 - CSS
 - JavaScript
-- Weather API (e.g., OpenWeatherMap)
+- Weather API 
 
 ## 🎯 Purpose
 
