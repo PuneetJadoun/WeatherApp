@@ -9,7 +9,7 @@ A simple weather app built using **HTML**, **CSS**, and **JavaScript**, designed
 - Error handling for invalid city names or network errors
 - Clean and modular JavaScript code
 
-## 📸 Screenshots
+##📸 Screenshots
 
 ![Screenshot 2025-06-29 111521](https://github.com/user-attachments/assets/3dbff4c4-b421-4106-bfda-1f942e5427bb)
 
