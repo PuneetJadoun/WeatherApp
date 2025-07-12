@@ -1,5 +1,4 @@
 # Weather App
-
 A simple weather app built using **HTML**, **CSS**, and **JavaScript**, designed to practice working with APIs and handling asynchronous requests.
 
 ## 🚀 Features
